@@ -1,21 +1,10 @@
 <h1 align="center">Hi 👋, I'm Özgür Çağan DEMİRÖZ</h1>
-<h3 align="center">🚀 Software Entrepreneur | Computer Engineering Student | Cyber Security Enthusiast</h3>
+<h3 align="center">🚀 Founder @ QruxWare | Computer Engineering Student</h3>
 
 <p align="center">
-  Passionate about bridging technical excellence with business strategy. Dedicated to developing innovative software solutions and exploring the depths of cyber security.
-</p>
-
-<p align="center">
-  📂 <strong>Ventures & Projects:</strong> <br>
-  • <strong>QruxWare:</strong> Co-Founder focusing on cross-platform application development and remote management tools. <br>
-  • <strong>iLUCE:</strong> Founder of a design-centric e-commerce brand. <br>
-  • <strong>UniConnect:</strong> Developing community-driven networking platforms for academic ecosystems.
-</p>
-
-<p align="center">
-  🌍 <strong>Leadership & Global Mindset:</strong> <br>
-  • Experienced leader in international student-led organizations like <strong>AIESEC</strong>. <br>
-  • Committed to <strong>Cyber Security</strong> research and <strong>Python/C++</strong> automation.
+  I am a Computer Engineering student at GİBTÜ, focused on Cyber Security and Software Development.
+  <br>
+  Currently, I am building <strong>QruxWare</strong>, a software initiative dedicated to developing advanced remote control tools and mobile applications.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurcagan&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurcagan" /> </p>
@@ -39,18 +28,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">⚡ GitHub Analytics (Self-Updating):</h3>
-
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurcagan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Özgür's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurcagan&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgurcagan&show_icons=true&theme=tokyonight&count_private=true" alt="Özgür's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurcagan&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurcagan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/ozgurcagan/ozgurcagan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
