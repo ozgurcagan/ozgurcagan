@@ -25,26 +25,28 @@
   <br>
 
   <h3 align="center">
-    <img src="https://media.giphy.com/media/iTWrX1d8XFwdR8T8Q4/giphy.gif" width="35px" style="vertical-align:middle"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR6eHh6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6&rid=giphy.gif" width="40px" style="vertical-align:middle">
     <span style="color: #42D392;">Tech Stack</span> & <span style="color: #3399FF;">Tools</span>
-    <img src="https://media.giphy.com/media/iTWrX1d8XFwdR8T8Q4/giphy.gif" width="35px" style="vertical-align:middle">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnR6eHh6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6c3Z6YnZ6&rid=giphy.gif" width="40px" style="vertical-align:middle">
   </h3>
   
-  <marquee scrollamount="9" direction="left" style="border: 2px solid #00F2FF; border-radius: 15px; padding: 15px; background: rgba(0, 242, 255, 0.05);">
-    <p align="center"> 
-        <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="margin-right: 25px;"/> </a>
-        <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin-right: 25px;"/> </a>
-        <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin-right: 25px;"/> </a>
-        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="margin-right: 25px;"/> </a>
-        <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="margin-right: 25px;"/> </a>
-        <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin-right: 25px;"/> </a> 
-        <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> 
+  <marquee scrollamount="10" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="border: 2px solid #00F2FF; border-radius: 15px; padding: 20px; background: rgba(0, 242, 255, 0.05); box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);">
+    <p align="center" style="margin: 0;"> 
+        <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a>
+        <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55" style="margin-right: 30px; vertical-align: middle;"/> </a> 
+        <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="55" height="55" style="vertical-align: middle;"/> </a> 
     </p>
   </marquee>
 
