@@ -3,7 +3,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&height=100&lines=Özgür+Çağan+DEMİRÖZ;💻+Computer+Engineer;🚀+Sole+Founder+@+QruxWare;🔒+Cyber+Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=3399FF;20C20E;F7931A;A020F0&center=true&vCenter=true&width=600&height=100&lines=Özgür+Çağan+DEMİRÖZ;💻+Computer+Engineer;🚀+Founder+@+QruxWare;🔒+Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,12 +25,12 @@
   <br>
 
   <h3 align="center">
-    <img src="https://media.giphy.com/media/QDLaEhUqd84sE/giphy.gif" width="30px" style="vertical-align:middle"> 
-    Tech Stack & Tools 
-    <img src="https://media.giphy.com/media/QDLaEhUqd84sE/giphy.gif" width="30px" style="vertical-align:middle">
+    <img src="https://media.giphy.com/media/iTWrX1d8XFwdR8T8Q4/giphy.gif" width="35px" style="vertical-align:middle"> 
+    <span style="color: #42D392;">Tech Stack</span> & <span style="color: #3399FF;">Tools</span>
+    <img src="https://media.giphy.com/media/iTWrX1d8XFwdR8T8Q4/giphy.gif" width="35px" style="vertical-align:middle">
   </h3>
   
-  <marquee scrollamount="8" direction="left" style="background: rgba(255,255,255,0.05); border-radius: 10px; padding: 10px;">
+  <marquee scrollamount="9" direction="left" style="border: 2px solid #00F2FF; border-radius: 15px; padding: 15px; background: rgba(0, 242, 255, 0.05);">
     <p align="center"> 
         <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50" style="margin-right: 25px;"/> </a> 
         <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin-right: 25px;"/> </a> 
