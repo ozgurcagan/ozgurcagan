@@ -19,7 +19,7 @@
   &nbsp;
   <a href="https://www.instagram.com/x_o_cd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a>
   &nbsp;
-  <a href="https://youtube.com/@wertugerx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
+  <a href=https://youtube.com/@qruxware?si=t67tmfDNgsOX1g3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
   </p>
 
   <br>
