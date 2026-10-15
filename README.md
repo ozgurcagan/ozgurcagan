@@ -3,7 +3,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=3399FF;20C20E;F7931A;A020F0&center=true&vCenter=true&width=600&height=100&lines=Özgür+Çağan+DEMİRÖZ;💻+Computer+Science;🚀+Founder+@+QruxWare;🔒+Cyber+Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=3399FF;20C20E;F7931A;A020F0&center=true&vCenter=true&width=600&height=100&lines=Özgür+Çağan+DEMİRÖZ;💻+Computer+Science; +Founder+@+QruxWare;🔒+Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -23,12 +23,6 @@
   </p>
 
   <br>
-
-  <h3 align="center">
-    <img src="https://media.giphy.com/media/iTWrX1d8XFwdR8T8Q4/giphy.gif" width="35px" style="vertical-align:middle">
-    <span style="color: #42D392;">Tech Stack</span> & <span style="color: #3399FF;">Tools</span>
-    <img src="https://media.giphy.com/media/iTWrX1d8XFwdR8T8Q4/giphy.gif" width="35px" style="vertical-align:middle">
-  </h3>
   
   <marquee scrollamount="10" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="border: 2px solid #00F2FF; border-radius: 15px; padding: 20px; background: rgba(0, 242, 255, 0.05); box-shadow: 0 0 15px rgba(0, 242, 255, 0.3);">
     <p align="center" style="margin: 0;"> 
