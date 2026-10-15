@@ -14,13 +14,6 @@
    🛠️ ⋅ 🔒 ⋅ 📱 ⋅ 🌍 ⋅ 💡
   </p>
 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/ozgurcagandemiroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/qruxware?igsh=NGJ3Z3FvYnhqb20y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a>
-  &nbsp;
-  <a href=https://youtube.com/@qruxware?si=t67tmfDNgsOX1g3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
-  </p>
 
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozgurcagan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
